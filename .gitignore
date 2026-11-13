@@ -7,3 +7,5 @@ __pycache__/
 file
 nohup.out
 mcp_server.log
+capstone_template.ipynb
+capstone_filled_template.ipynb
